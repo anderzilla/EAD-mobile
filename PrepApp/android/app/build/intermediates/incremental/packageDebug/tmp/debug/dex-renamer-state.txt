@@ -1,0 +1,4 @@
+#Mon Mar 23 10:04:36 BRT 2020
+base.0=/Users/anderzilla/Desktop/Code/clientes/Altran/PrepApp/react-native/android/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
